@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "660199672582",
+    "firebase_url": "https://addin-84af5.firebaseio.com",
+    "project_id": "addin-84af5",
+    "storage_bucket": "addin-84af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660199672582:android:34602f640825852a",
+        "android_client_info": {
+          "package_name": "com.example.aditya.addin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660199672582-5kd4sst4pu38nlntrgr1m6n1gdr7ptr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditya.addin",
+            "certificate_hash": "7d5318273d6162701229fec9308f9882986f5b28"
+          }
+        },
+        {
+          "client_id": "660199672582-o1af3lpvdhapc3qj5b6p666lb6u5qpv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIanBlLZjRsKl_Nug7BU444GFnxfPdh1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660199672582-o1af3lpvdhapc3qj5b6p666lb6u5qpv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
